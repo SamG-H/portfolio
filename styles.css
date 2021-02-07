@@ -150,6 +150,10 @@ footer a {
     grid-template-columns: 100%;
   }
 
+  .description {
+    margin-bottom: 15%;
+  }
+  
   .text {
     margin: 0 5%;
   }
@@ -166,5 +170,9 @@ footer a {
   .project {
     width: 300px;
     height: 152px;
+  }
+
+  .image {
+    width: 200px;
   }
 }
