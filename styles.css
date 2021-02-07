@@ -63,7 +63,7 @@ a:visited {
 }
 
 h1 {
-  margin: 1%;
+  margin: 3%;
   font-size: 42px;
   font-family: "Montserrat", sans-serif;
   padding: 1px;
@@ -85,6 +85,7 @@ h3 {
 }
 
 .text {
+  text-align: left;
   margin: 0 15%;
   font-family: "Roboto", sans-serif;
   font-size: 30px;
@@ -171,6 +172,11 @@ footer a {
     width: 300px;
     height: 152px;
   }
+
+.techstack-image {
+  height: 64px;
+  width: 64px;
+}
 
   .image {
     width: 300px;
