@@ -165,6 +165,10 @@ footer a {
     width: 405px;
     height: 202px;
   }
+
+  .projects {
+    margin-left: 0;
+  }
 }
 
 @media screen and (max-width:410px) {
@@ -172,11 +176,14 @@ footer a {
     width: 300px;
     height: 152px;
   }
-
-.techstack-image {
-  height: 64px;
-  width: 64px;
-}
+  
+  .description {
+    margin-left: 0;
+  }
+  .techstack-image {
+    height: 64px;
+    width: 64px;
+  }
 
   .image {
     width: 300px;
