@@ -16,7 +16,7 @@ body {
   background-color: white;
   color: black;
   font-family: Hack, monospace;
-  font-size: 15px;
+  font-size: 17px;
   text-align: left;
   display: inline-block;
   padding: 0 7px;
@@ -25,9 +25,9 @@ body {
 }
 
 .image-container {
+  margin: 0 5%;
   padding: 0;
   display: inline-block;
-  width: 95%;
   text-align: center;
 }
 
@@ -38,7 +38,7 @@ body {
   margin: 5px;
   padding: 5px;
   height: auto;
-  width: 360px;
+  width: 400px;
 }
 
 .result {
